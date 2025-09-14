@@ -1,0 +1,37 @@
+plugins:
+  - rubocop-minitest
+
+AllCops:
+  TargetRubyVersion: 3.2
+  NewCops: enable
+  SuggestExtensions: false
+
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
+
+Style/IfUnlessModifier:
+  Enabled: false
+
+Style/SymbolArray:
+  EnforcedStyle: brackets
+
+Style/WordArray:
+  EnforcedStyle: brackets
+
+Layout/EmptyLinesAroundAccessModifier:
+  EnforcedStyle: only_before
+
+Layout/IndentationConsistency:
+  EnforcedStyle: indented_internal_methods
+
+Minitest/MultipleAssertions:
+  Enabled: false
+
+Minitest/AssertPredicate:
+  Enabled: false
+
+Gemspec/RequireMFA:
+  Enabled: false
+
+Bundler/OrderedGems:
+  Enabled: false

